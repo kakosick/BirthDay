@@ -1,0 +1,32 @@
+[
+ {
+   "title": "Ошол куну",
+   "artist": "Freeman996, Бегиш",
+   "src": "assets/music/freemen.mp3",
+   "art": "assets/images/freeman.jpg"
+ },
+ {
+  "title": "Оружия",
+  "artist": "Группа пицца",
+  "src": "assets/music/pizza.mp3",
+  "art": "assets/images/pizza.jpeg"
+ },
+ {
+  "title": "Enter Sandman",
+  "artist": "Metallica",
+  "src": "assets/music/enter.mp3",
+  "art": "assets/images/enter.jpeg"
+ },
+ {
+  "title": "Snowman",
+  "artist": "Sie",
+  "src": "assets/music/sie.mp3",
+  "art": "assets/images/sie.jpeg"
+ },
+ {
+  "title": "Monster in paris",
+  "artist": "Sean Lennon",
+  "src": "assets/music/monster.mp3",
+  "art": "assets/images/monster.jpeg"
+ }
+]
